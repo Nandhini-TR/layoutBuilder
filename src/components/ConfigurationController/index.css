@@ -1,0 +1,21 @@
+.nav-bg-container {
+  background-color: #475569;
+  color: #ffffff;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.label-content {
+  font-size: 16px;
+}
+
+.checkbox-container {
+  display: flex;
+  margin: 10px;
+}
